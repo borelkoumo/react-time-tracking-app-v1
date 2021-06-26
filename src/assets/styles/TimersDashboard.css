@@ -1,0 +1,17 @@
+.mainContainer {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.headerContainer {
+    margin-bottom: 2vh;
+}
+
+.footerContainer {
+    margin-top: 2vh;
+}
+
+.timerMetadata {
+    margin-bottom: 2vh;
+}
+
