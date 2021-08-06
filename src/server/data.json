@@ -1,0 +1,40 @@
+{
+    "projects": [
+        {
+            "id": "dfe9a7ac-21a7-46c2-8099-be914d4c5dbf",
+            "projectId": "Un cours",
+            "title": "Projet 1",
+            "ellapsedTime": 0,
+            "created": 1628273202427,
+            "runningSince": 0
+        },
+        {
+            "id": "eb7fa366-619c-4df5-8f09-2c79b5094b2d",
+            "projectId": "Deux cours",
+            "title": "Projet 2",
+            "ellapsedTime": 0,
+            "created": 1628273231979,
+            "runningSince": 0
+        },
+        {
+            "id": "edd96cc2-0ef0-4ccd-a6f4-498aa7114ade",
+            "projectId": "Deux cours",
+            "title": "Projet 3",
+            "ellapsedTime": 0,
+            "created": 1628273246570,
+            "runningSince": 0
+        },
+        {
+            "id": "7357b6ad-648b-4ef7-b482-f8d0ca673984",
+            "projectId": "Un cours",
+            "title": "Projet 4",
+            "ellapsedTime": 0,
+            "created": 1628273258122,
+            "runningSince": 0
+        }
+    ],
+    "projecId": [
+        "Un cours",
+        "Deux cours"
+    ]
+}

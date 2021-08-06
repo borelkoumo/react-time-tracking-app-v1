@@ -1,6 +1,14 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
 .mainContainer {
     padding-top: 2vh;
     padding-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+
 }
 
 .headerContainer {

@@ -24,6 +24,7 @@ class TimersDashboard extends React.Component {
             timers: [...this.state.timers, timer]
         }, () => {
             console.log('timer created')
+            console.log(JSON.stringify(timer))
         })
         //debugger
     }
@@ -108,6 +109,15 @@ class TimersDashboard extends React.Component {
         }, () => {
             console.log('timer edited')
         })
+    }
+
+    loadTimersFromServer() {
+
+    }
+
+    componentDidMount() {
+        this.loadTimersFromServer();
+        setInterval(this.loadTimersFromServer, 5000);
     }
 
     render() {

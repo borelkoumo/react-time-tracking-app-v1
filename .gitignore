@@ -17,6 +17,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+my-github-ssh-key
+my-github-ssh-key.pub
 
 npm-debug.log*
 yarn-debug.log*
